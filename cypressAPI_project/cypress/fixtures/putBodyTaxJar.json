@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "name": "TaxJar",
+    "cfg": {
+        "TAXJAR_API_TOKEN": "9f5cf0b0cb42c0348eeaaa385cd283b62"
+    },
+    "status": false
+}

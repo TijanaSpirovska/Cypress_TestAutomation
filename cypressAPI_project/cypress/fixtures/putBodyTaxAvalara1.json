@@ -1,0 +1,12 @@
+{
+    "id": 2,
+    "name": "Avalara",
+    "cfg": {
+        "AVALARA_ACCOUNT_ID": "156341",
+        "AVALARA_USERNAME": "Avalara1",
+        "AVALARA_PASSWORD": "Avalara11",
+        "AVALARA_COMPANY_ID": "8899331",
+        "AVALARA_TAXPAYER_ID": "1234561"
+    },
+    "status": true
+}

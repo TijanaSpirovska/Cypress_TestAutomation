@@ -1,0 +1,53 @@
+{
+    "id": 1,
+    "name": "FedEx",
+    "cfg": {
+        "FEDEX_KEY": "r0Npp6c3UykAFvYd1",
+        "FEDEX_PASSWORD": "ItHx2WFK5ndkBkt0BBcu1LHdJ1",
+        "FEDEX_ACCOUNT_NUMBER": "5100875001",
+        "FEDEX_METER_NUMBER": "1192670911",
+        "options": [
+            {
+                "name": "FEDEX_GROUND",
+                "description": "FedEx Ground is a low-cost shipping service that delivers to businesses and is faster to more locations than UPS Ground. If you need to ship to a residential address, use FedEx Home Delivery &#174, which delivers every day of the week. <a href=\"https://www.fedex.com/en-us/shipping/ground.html\" target=\"_blank\">Read more</a> about this feature.",
+                "status": false
+            },
+            {
+                "name": "FEDEX_HOME_DELIVERY",
+                "description": "FedEx Home Delivery is a ground shipping service that delivers to residential areas. It is faster to more residential locations than UPS Ground. FedEx Home Delivery also delivers to more residential locations than UPS Ground on the weekend. <a href=\"https://www.fedex.com/en-us/shipping/home-delivery.html\" target=\"_blank\">Read more</a> about this feature.",
+                "status": true
+            },
+            {
+                "name": "FEDEX_EXPRESS_SAVER",
+                "description": "FedEx Express Saver is our 3 day shipping option. When you choose it, your packages are delivered within 3 days of the ship date.\t<a href=\"https://www.fedex.com/en-us/shipping/3-day-express-saver-shipping.html\" target=\"_blank\">Read more</a> about this feature.",
+                "status": true
+            },
+            {
+                "name": "FIRST_OVERNIGHT",
+                "description": "Early morning delivery\n\t                          FedEx First Overnight&#174;: Delivery the next-business-day morning by 8 a.m., 8:30 a.m., 9 a.m. or 9:30 a.m. to most areas. Additional extended delivery locations are guaranteed up to 2 p.m. <a href=\"https://www.fedex.com/en-us/shipping/overnight.html\" target=\"_blank\">Read on</a> for more details about each service.",
+                "status": true
+            },
+            {
+                "name": "STANDARD_OVERNIGHT",
+                "description": "FedEx Standard Overnight&#174;: Next-business-day delivery by 4:30 p.m. to U.S. businesses and by 8 p.m. to residences. FedEx Standard Overnight delivery is available in all 50 states, but only to addresses where the FedEx Priority Overnight delivery commitment is by 10:30 a.m. or noon.  <a href=\"https://www.fedex.com/en-us/shipping/overnight.html\" target=\"_blank\">Read on</a> for more details about each service.",
+                "status": true
+            },
+            {
+                "name": "PRIORITY_OVERNIGHT",
+                "description": "FedEx Priority Overnight&#174;: Delivery the next business day by 10:30 a.m. to most businesses in the contiguous U.S. and by noon to residences and 4:30 p.m. to some rural areas. <a href=\"https://www.fedex.com/en-us/shipping/overnight.html\" target=\"_blank\">Read on</a> for more details about each service.",
+                "status": true
+            },
+            {
+                "name": "FEDEX_2_DAY",
+                "description": "With FedEx 2 day shipping, your packages are delivered within 2 business days throughout the United States. You can choose from two delivery options based on your shipments urgency. FedEx 2Day&#174; provides delivery by the end of the second business day. <a href=\"https://www.fedex.com/en-us/shipping/2-day-shipping.html\" target=\"_blank\">Read on</a> for more details about each service.",
+                "status": true
+            },
+            {
+                "name": "FEDEX_2_DAY_AM",
+                "description": "With FedEx 2 day shipping, your packages are delivered within 2 business days throughout the United States. You can choose from two delivery options based on your shipments urgency. FedEx 2Day&#174; A.M. offers morning delivery on the second business day. <a href=\"https://www.fedex.com/en-us/shipping/2-day-shipping.html\" target=\"_blank\">Read on</a> for more details about each service.",
+                "status": true
+            }
+        ]
+    },
+    "status": false
+}

@@ -1,0 +1,8 @@
+{
+    "id": 2,
+    "name": "EasyPost",
+    "cfg": {
+        "EASYPOST_KEY": "EasyPostkey43o95349091"
+    },
+    "status": false
+}

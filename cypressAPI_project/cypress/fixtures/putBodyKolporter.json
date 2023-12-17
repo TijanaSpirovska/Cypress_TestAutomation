@@ -1,0 +1,87 @@
+{
+    "id": 3,
+    "name": "Kolporter",
+    "cfg": {
+        "rates": [
+            {
+                "name": "Total products weight up to",
+                "kg": "0",
+                "lb": "0",
+                "rate": 100
+            },
+            {
+                "name": "Total products weight up to",
+                "kg": "1",
+                "lb": "2,20462",
+                "rate": 100
+            },
+            {
+                "name": "Total products weight up to",
+                "kg": "3",
+                "lb": "6,61386",
+                "rate": 131000
+            },
+            {
+                "name": "Total products weight up to",
+                "kg": "5",
+                "lb": "11,0231",
+                "rate": 151000
+            },
+            {
+                "name": "Total products weight up to",
+                "kg": "10",
+                "lb": "22,0462",
+                "rate": 181000
+            },
+            {
+                "name": "Total products weight up to",
+                "kg": "20",
+                "lb": "44,0924",
+                "rate": 241000
+            },
+            {
+                "name": "Total products weight up to",
+                "kg": "30",
+                "lb": "66,1386",
+                "rate": 301000
+            },
+            {
+                "name": "Total products weight up to",
+                "kg": "40",
+                "lb": "88,1848",
+                "rate": 401000
+            },
+            {
+                "name": "Total products weight up to",
+                "kg": "50",
+                "lb": "110,231",
+                "rate": 501000
+            },
+            {
+                "name": "Total products weight up to",
+                "kg": "70",
+                "lb": "154,3234",
+                "rate": 651000
+            },
+            {
+                "name": "Total products weight up to",
+                "kg": "80",
+                "lb": "176,3696",
+                "rate": 731000
+            },
+            {
+                "name": "Total products weight up to",
+                "kg": "90",
+                "lb": "198,4158",
+                "rate": 811000
+            },
+            {
+                "name": "Total products weight up to",
+                "kg": "100",
+                "lb": "1220,4620",
+                "rate": 901000
+            }
+        ]
+    },
+    "status": true
+}

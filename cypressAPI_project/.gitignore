@@ -1,0 +1,5 @@
+/node_modules
+.data
+src/downloads
+src/videos
+src/screenshots

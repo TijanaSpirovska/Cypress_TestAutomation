@@ -1,0 +1,10 @@
+{
+    "id": 5,
+    "name": "halkbank",
+    "cfg": {
+        "HALKBANK_URL": "https://entegrasyon.asseco-see.com.tr/fim/est3Dgate1",
+        "HALKBANK_CLIENT_ID": "1800001291",
+        "HALKBANK_STORE_KEY": "SKEY01291"
+    },
+    "status": false
+}

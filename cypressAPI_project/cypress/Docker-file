@@ -1,0 +1,21 @@
+# Use an official Node.js runtime as the base image
+FROM node:14
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Copy package.json and package-lock.json to the working directory
+COPY package*.json ./
+
+# Install dependencies
+RUN npm install
+
+# Copy the entire project to the working directory
+COPY . .
+
+# Expose the port used by Cypress (if necessary)
+EXPOSE 8080
+
+# Run Cypress tests when the container starts
+CMD ["npm", "run", "cypress:run"]
+

@@ -1,0 +1,164 @@
+{
+    "id": 499,
+    "first_name": "Automated Update",
+    "last_name": "Test Customer",
+    "phone": "1162023",
+    "email": "automatedtestcustomer@test.com",
+    "customer_email": "automatedtestcustomer@test.com",
+    "company_id": 7,
+    "archived": false,
+    "address_list": [{
+            "id": 958,
+            "address_type": 0,
+            "is_default": true,
+            "address_name": "Post Rd",
+            "address_number": "15",
+            "zip_code": "02891",
+            "city": "Westerly",
+            "country_id": 237,
+            "created_at": "2023-07-19T11:10:37.000000Z",
+            "updated_at": "2023-07-19T11:10:37.000000Z",
+            "state": "RI",
+            "customer_id": 499,
+            "countries": {
+                "id": 237,
+                "key": "USA",
+                "name": "United States of America (the)",
+                "created_at": "2022-07-11T13:01:51.000000Z",
+                "updated_at": "2022-07-11T13:01:51.000000Z",
+                "short_key": "US"
+            },
+            "country_code": "USA"
+        }, {
+            "id": 959,
+            "address_type": 1,
+            "is_default": true,
+            "address_name": "Post Rd",
+            "address_number": "15",
+            "zip_code": "02891",
+            "city": "Westerly",
+            "country_id": 237,
+            "created_at": "2023-07-19T11:10:37.000000Z",
+            "updated_at": "2023-07-19T11:10:37.000000Z",
+            "state": "RI",
+            "customer_id": 499,
+            "countries": {
+                "id": 237,
+                "key": "USA",
+                "name": "United States of America (the)",
+                "created_at": "2022-07-11T13:01:51.000000Z",
+                "updated_at": "2022-07-11T13:01:51.000000Z",
+                "short_key": "US"
+            },
+            "country_code": "USA"
+        }
+    ],
+    "customer_data": {
+        "customer_attributes": [{
+                "id": 90,
+                "unique_id": "811fbcebb79f490a866fe0254706a546",
+                "name": {
+                    "USA": "New test"
+                },
+                "type": 2,
+                "required": false,
+                "created_at": "2023-05-10T06:43:57.000000Z",
+                "updated_at": "2023-05-15T07:57:20.000000Z",
+                "options": "test1,test2,test3",
+                "customers_count": false,
+                "value": "test1"
+            }, {
+                "id": 93,
+                "unique_id": "b2e55b8dc8814d1ea30fd014850cb01f",
+                "name": {
+                    "USA": "New Customer Attribute"
+                },
+                "type": 2,
+                "required": false,
+                "created_at": "2023-05-23T13:45:05.000000Z",
+                "updated_at": "2023-05-23T13:45:05.000000Z",
+                "options": "Test1111",
+                "customers_count": false,
+                "value": "Test1111"
+            }, {
+                "id": 94,
+                "unique_id": "b39461bc0ba44714a8d025ce33401c0c",
+                "name": {
+                    "USA": "New Customer Attribute"
+                },
+                "type": 2,
+                "required": false,
+                "created_at": "2023-05-23T14:10:43.000000Z",
+                "updated_at": "2023-05-23T14:10:43.000000Z",
+                "options": "Test1111",
+                "customers_count": false,
+                "value": "Test1111"
+            }, {
+                "id": 95,
+                "unique_id": "dfb4be1a608f48098becf5b21c50d70a",
+                "name": {
+                    "USA": "New Customer Attribute"
+                },
+                "type": 2,
+                "required": false,
+                "created_at": "2023-05-23T14:16:53.000000Z",
+                "updated_at": "2023-05-23T14:16:53.000000Z",
+                "options": "Test1111",
+                "customers_count": false,
+                "value": "Test1111"
+            }, {
+                "id": 10,
+                "unique_id": "58a512efd2d64d7495bdc9071192c4cf",
+                "name": {
+                    "USA": "Test AVale"
+                },
+                "type": 1,
+                "required": false,
+                "created_at": "2022-11-14T17:37:50.000000Z",
+                "updated_at": "2023-01-17T10:37:41.000000Z",
+                "options": null,
+                "customers_count": false
+            }, {
+                "id": 48,
+                "unique_id": "ed2b915b647d4ee083528f93d33fb4ae",
+                "name": {
+                    "USA": "Silver Jewelry"
+                },
+                "type": 1,
+                "required": false,
+                "created_at": "2023-02-10T14:26:05.000000Z",
+                "updated_at": "2023-02-10T14:26:05.000000Z",
+                "options": null,
+                "customers_count": false
+            }, {
+                "id": 118,
+                "unique_id": "3271727744204998b22e2d49954c1da5",
+                "name": {
+                    "MKD": "Testing Vale MKD",
+                    "SRB": "Testing Vale SRB",
+                    "USA": "Testing Vale USA"
+                },
+                "type": 3,
+                "required": false,
+                "created_at": "2023-07-18T06:37:46.000000Z",
+                "updated_at": "2023-07-18T06:37:46.000000Z",
+                "options": null,
+                "customers_count": false
+            }, {
+                "id": 119,
+                "unique_id": "7a87c280b1374c2f8de6a86d0fb7f85b",
+                "name": {
+                    "MKD": "Testing Vale MKD1",
+                    "SRB": "Testing Vale SRB1",
+                    "USA": "Testing Vale USA1"
+                },
+                "type": 5,
+                "required": false,
+                "created_at": "2023-07-18T06:38:53.000000Z",
+                "updated_at": "2023-07-18T06:38:53.000000Z",
+                "options": null,
+                "customers_count": false
+            }
+        ]
+    }
+}

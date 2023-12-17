@@ -1,0 +1,42 @@
+{
+    "data": {
+        "name": {
+            "USA": "Automated Test Product Update"
+        },
+        "description": {
+            "USA": "<p>Automated Test Product Update</p>"
+        }
+    },
+    "id": 52,
+    "slug": "automated-test-product-update",
+    "status": "modified",
+    "category_ids": "477",
+    "linked_product_ids": "",
+    "product_data": {
+        "selected_attributes": [
+            {
+                "id": 9,
+                "unique_id": "fd6504186bba4dd1a03a32fff13412c8",
+                "name": {
+                    "USA": "Color",
+                    "MKD": "Боја"
+                },
+                "type": 1,
+                "options": null,
+                "required": false,
+                "created_at": "2022-08-18 08:19:03",
+                "updated_at": "2022-12-07 15:08:10"
+            }
+        ],
+        "product_type": "General",
+        "restricted_countries": [
+            {
+                "value": "AFG",
+                "label": "Afghanistan"
+            }
+        ]
+    },
+    "tax_id": 36,
+    "shipping_type_id": 1,
+    "flat_rate_amount": null
+}

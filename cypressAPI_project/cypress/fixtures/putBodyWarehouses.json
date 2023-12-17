@@ -1,0 +1,17 @@
+{
+    "name": "Automated Test Warehouse Update",
+    "primary": false,
+    "status": true,
+    
+    "first_name": "Automated",
+    "last_name": "Test Warehouse",
+    "phone": "070707070",
+    "email": "automatedtestcustomerupdate@test.com",
+    "fax": "",
+    "address_name": "ilinden",
+    "address_number": "4",
+    "zip_code": "6",
+    "city": "Skopje",
+    "state": null,
+    "country": "AFG"
+}

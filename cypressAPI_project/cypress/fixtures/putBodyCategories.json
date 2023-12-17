@@ -1,0 +1,18 @@
+{
+    "data": {
+        "name": {
+            "USA": "Automated Test Category Update"
+        },
+        "description": {
+            "USA": "<p>Automated Test Category Update</p>"
+        }
+    },
+    "slug": "automated-test-category-update",
+    "parent_id": null,
+    "file": null,
+    "id": 417,
+    "order": 1,
+    "visible": true,
+    "new_arrival":false,
+    "size":14038
+}

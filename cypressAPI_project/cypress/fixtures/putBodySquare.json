@@ -1,0 +1,10 @@
+{
+    "id": 2,
+    "name": "square",
+    "cfg": {
+        "SQUARE_APPLICATION_ID": "sandbox-sq0idb-eYWbFbZQfPb9KFrXQK12jQ1",
+        "SQUARE_TOKEN": "EAAAEJEiAqw-ZHSIYqOjizk5s66goyJwP6BnbVbO1kxkob01XW_fbfOV5FmFm7rX1",
+        "SQUARE_LOCATION": "LF8ZRHVXTPRD01"
+    },
+    "status": true
+}

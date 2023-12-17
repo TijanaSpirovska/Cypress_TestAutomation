@@ -1,0 +1,19 @@
+{
+    "data": {
+        "description": {
+            "USA": "Automated Test System Description",
+            "AFN": "Automated Test System Description"
+        }
+    },
+    "name": "Automated Test System Tax",
+    "key": "Automated Test System Tax Key",
+    "tax_categories": [
+        {
+            "id": 1696329288529,
+            "name": "new",
+            "state": "",
+            "country_code": "AND",
+            "rate": 0.15
+        }
+    ]
+}

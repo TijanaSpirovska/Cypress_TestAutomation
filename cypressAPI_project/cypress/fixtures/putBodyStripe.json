@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "name": "stripe",
+    "cfg": {
+        "STRIPE_KEY": "pk_test_51H3a39FtvA8Hsruw2GOG4Kt9KrLlvfdZdsqq9ksDLSzRwOPrMg4eIvZcY3z3pOGeeclzSVXeUIl2DH2QBIIsokdt00vnINTJUQ1",
+        "STRIPE_SECRET": "sk_test_51H3a39FtvA8HsruwkhsMCq3eJk3oCJxG8SJfVhPRdjOSffnby83WGrMauKTTlOhpKByRjvhjeZP9iDkZSegJKjNK00VzdyaJV81",
+        "ENABLE_DIRECT_CARD": false
+    },
+    "status": false
+}

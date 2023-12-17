@@ -1,0 +1,12 @@
+{
+    "data": {
+        "name": {
+            "USA": "Automated Test Coupon Group Update"
+        },
+        "description": {
+            "USA": "<p>Automated Test Coupon Group Update</p>"
+        }
+    },
+    "valid_from": "2023-08-18 02:00:00",
+    "valid_to": "2025-08-18 02:00:00"
+}

@@ -1,0 +1,14 @@
+{
+    "value": [ {
+            "name": "Gift Card",
+            "blockDelete": 1
+        }, {
+            "name": "General",
+            "blockDelete": 28
+        }, {
+            "name": "Ticket",
+            "blockDelete": 0
+        }
+        
+    ]
+}

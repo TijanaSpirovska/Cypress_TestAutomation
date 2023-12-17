@@ -1,0 +1,13 @@
+{
+    "status": false,
+    "id": 4,
+    "name": "bankart",
+    "cfg": {
+        "BANKART_API_KEY": "IntervorksTest-Sim1",
+        "BANKART_SHARED_SECRET": "hrNat3NTWUd7q6grcb5Mr6G8pBPDy61",
+        "BANKART_PUBLIC_INTEGRATION_KEY": "f1nphdmxIjVpM6EzcwWr1",
+        "BANKART_USERNAME": "ApiIntervorksTest1",
+        "BANKART_PASSWORD": "dVPHu5m9s*02#LZ6_BLI.jXf_hLrt1",
+        "BANKART_URL": "https://bankart.paymentsandbox.cloud/api/v3/transaction/IntervorksTest-Sim/debit1"
+    }
+}

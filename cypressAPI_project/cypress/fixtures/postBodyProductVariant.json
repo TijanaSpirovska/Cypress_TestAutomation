@@ -1,0 +1,40 @@
+{
+    "data": {
+        "name": {
+            "USA": "Automated Test Product Variant"
+        },
+        "description": {
+            "USA": "<p>Automated Test Product Variant</p>"
+        }
+    },
+    "sku": "IWC0000251-11122-999-888888",
+    "is_master": false,
+    "quantity": 500,
+    "product_data": {
+        "custom_attributes": [
+            {
+                "key": 1686907216271,
+                "name": {
+                    "USA": "color"
+                },
+                "type": 1,
+                "value": "black"
+            }
+        ],
+        "fedEx_attributes": {
+            "weight": "52",
+            "units": "KG",
+            "length": "50",
+            "width": "60",
+            "height": "157",
+            "dimensionUnits": "CM",
+            "fedexStatus": true
+        }
+    },
+    "selected_attributes": [
+        {
+            "id": 9,
+            "value": "purple"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "product_variant_unique_id": "2937ce30f4ec468f94666f2fd59351aa",
+    "price": 1000,
+    "currency_key": "USD",
+    "country_key": "AND",
+    "valid_from": "2023-08-18 02:00:00",
+    "valid_to": "2025-08-18 02:00:00",
+    "price_data": [
+        {
+            "name": "Discount price",
+            "id": "price_0",
+            "value": 998
+        },
+        {
+            "name": "Test Vale",
+            "id": "price_1",
+            "value": 997
+        },
+        {
+            "name": "TEST PRICE",
+            "id": "price_2",
+            "value": 1000
+        }
+    ]
+}
+

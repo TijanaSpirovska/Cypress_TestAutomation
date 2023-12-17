@@ -1,0 +1,11 @@
+{
+    "value": [
+        {
+            "name": "United States dollar",
+            "key": "USD",
+            "symbol": "&#36;",
+            "is_default": true 
+        }
+        
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "cfg": {
+        "VERTEX_API_TOKEN": "123"
+    },
+    "id": 3,
+    "name": "Vertex",
+    "status": true
+}

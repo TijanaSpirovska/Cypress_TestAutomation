@@ -1,0 +1,19 @@
+{
+    "product_variant_id": null,
+    "total_amount": 10000,
+    "redeem_amount": 0,
+    "status": true,
+    "customer_email": "automatedtestcustomerupdate@test.com",
+    "valid_from": "2023-08-18 02:00:00",
+    "valid_to": "2025-08-18 02:00:00",
+    "gift_card_data": {
+        "price": {
+            "currency": {
+                "name": "US Dollar",
+                "key": "USD",
+                "is_default": true,
+                "symbol": "&#36;"
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "coupon_group_id": 87,
+    "code": "Automated Test Coupons",
+    "status": "created",
+    "valid_from": "8/19/2023, 2:00:00 AM",
+    "valid_to": "8/17/2025, 2:00:00 AM",
+    "discount_type": 0,
+    "value": 1500,
+    "custom_data": [],
+    "requestedFromGroup": false,
+    "multi_usage": false
+}

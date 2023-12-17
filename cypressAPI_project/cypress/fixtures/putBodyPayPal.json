@@ -1,0 +1,9 @@
+{
+    "id": 3,
+    "name": "paypal",
+    "cfg": {
+        "PAYPAL_SANDBOX_CLIENT_ID": "AfriCFWIv1-Ym2l8n1MUQdjeFPs7D3iawUxh6DkUAcod53VjkRLmx-3_SFe-cpMytVxkapONaz5jlRmF1",
+        "PAYPAL_SANDBOX_CLIENT_SECRET": "ENHeTxTFZDG_LDzWntbvE9CPdTTzX3qlNc7CMIpPNM1fDubgRx95kbWypVSvr188ZCl661cP1zx-WDlI1"
+    },
+    "status": true
+}
